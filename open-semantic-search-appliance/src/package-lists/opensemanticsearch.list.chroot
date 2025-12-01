@@ -1,0 +1,9 @@
+curl
+poppler-utils
+tesseract-ocr
+tesseract-ocr-all
+scantailor
+apache2
+python3-pip
+lsof
+pdftk
