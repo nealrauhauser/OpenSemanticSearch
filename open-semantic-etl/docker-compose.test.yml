@@ -1,3 +1,0 @@
-sut:
-  build: .
-  command: /usr/lib/python3/dist-packages/opensemanticetl/test/run_tests.sh
